@@ -3,7 +3,6 @@
     "version": "4.04",
     "type": "tarball",
     "archive": "xpdf-tools-4.04.tar.gz",
-    "make": false,
     "bin_path": "bin64",
     "binaries": [
         "pdfdetach",
